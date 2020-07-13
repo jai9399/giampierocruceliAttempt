@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jai9399/giampierocruceliAttempt/issues"
   },
-  "homepage": "https://github.com/jai9399/giampierocruceliAttempt#readme"
+  "homepage": "https://github.com/jai9399/giampierocruceliAttempt#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
